@@ -15,7 +15,7 @@ To add a task click next to the time, enter your text and add the blue save icon
 
 Here is a screenshot fo the website in action:
 
-![Alt text](work-day-scheduler-demo.png)
+![Alt text](/assets/work-day-scheduler-demo.png)
 
 Here is a link of the website:
 
