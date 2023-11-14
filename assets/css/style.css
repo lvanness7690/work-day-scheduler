@@ -57,3 +57,23 @@ textarea {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
 }
+
+/* Responsive adjustments */
+@media (max-width: 400px) {
+    .hour {
+        width: 100%;
+        display: block;
+        text-align: left;
+        padding: 10px 0;
+    }
+    .description, .saveBtn {
+        width: 100%;
+        display: block;
+        margin-top: 10px;
+    }
+}
+
+/* Padding at the bottom of the container */
+.container-lg {
+    padding-bottom: 20px; /* Adjust as needed */
+}
